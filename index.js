@@ -41,6 +41,8 @@ function requestComplete() {
 
     let beer_img = document.createElement('img');
     let beer_pic = beerData[0].image_url;
+
+    beer_img.style.marginTop = '8%';
     
     // response info attachment
     beer_title.innerHTML = beerData[0].name;
