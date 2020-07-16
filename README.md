@@ -1,8 +1,11 @@
 # punk-api
-Punk API - Brewdog
 
-Request & recieve data from the Punk API via https://api.punkapi.com/v2/
+PB
 
-Display the data to the user via a webpage
+Punk API by Brewdog Brewery
 
-Request a new data point on reload
+https://api.punkapi.com/v2/
+
+
+
+
